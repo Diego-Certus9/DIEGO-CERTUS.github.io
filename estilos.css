@@ -1,0 +1,44 @@
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    display: block;
+    color: #fff;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    background-color: #555;
+  }
+
+  section h2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(37, 15, 78);
+  }
+  section p{
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: brown;
+      justify-content: center;
+  }
+  footer p{
+      font-family: cursive;
+      color: seagreen;
+      justify-content: end;
+  }
+  section img{
+      justify-content: center;
+  }
